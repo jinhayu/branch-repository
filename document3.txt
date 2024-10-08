@@ -1,4 +1,3 @@
 def main():
-     print("goood")
-     print("hi")
+    print("hello")
 main()
